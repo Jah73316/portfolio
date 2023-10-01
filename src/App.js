@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <p>{title.toUpperCase()}</p>
-      <button onClick={handleOnClick} type="button" class="btn btn-primary">Primary</button>
+      <button onClick={handleOnClick} type="button" class="btn btn-primary">Click Me</button>
     </div>
   );
 }
