@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -8,8 +7,8 @@ function App() {
   }
   return (
     <div className="App">
-      <p>{title.toUpperCase()}</p>
-      <button onClick={handleOnClick} type="button" class="btn btn-primary">Click Me</button>
+      <p className='alert'>{title.toUpperCase()}</p>
+      <button onClick={handleOnClick} type="button" className="btn btn-primary">Click Me</button>
     </div>
   );
 }
