@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e71a66a6.css",
+    "main.js": "/portfolio/static/js/main.fd2f64b4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/kitchen.jpg": "/portfolio/static/media/kitchen.e8486eb3a783d06b2452.jpg",
+    "static/media/mens-clothing.jpg": "/portfolio/static/media/mens-clothing.b4a38de60b71a2068f74.jpg",
+    "static/media/skincare.jpg": "/portfolio/static/media/skincare.30d2715c8ab502150c48.jpg",
+    "static/media/shoes.jpg": "/portfolio/static/media/shoes.b3a451b0e77ada2354dd.jpg",
+    "static/media/womens_outfit.jpg": "/portfolio/static/media/womens_outfit.c8ae12ff300aac5362f7.jpg",
+    "static/media/perfume.jpg": "/portfolio/static/media/perfume.7a78bc58b0f5d867c343.jpg",
+    "static/media/makeup.jpg": "/portfolio/static/media/makeup.16675b35e636fa936908.jpg",
+    "static/media/shampoo.jpg": "/portfolio/static/media/shampoo.81b9ba2a57f5ce6cfda6.jpg",
+    "static/media/bedset.jpg": "/portfolio/static/media/bedset.840c2bf87f314cc91956.jpg",
+    "static/media/watch.jpg": "/portfolio/static/media/watch.e5050aa59b4f52bfbfd3.jpg",
+    "static/media/main-card-image.jpg": "/portfolio/static/media/main-card-image.408ad705a9007ccf64ec.jpg",
+    "static/media/bootstrap-icons.woff?": "/portfolio/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/portfolio/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/DS.svg": "/portfolio/static/media/DS.e7f7a599ee885be6f4e47e98f28bc407.svg",
+    "index.html": "/portfolio/index.html",
+    "main.e71a66a6.css.map": "/portfolio/static/css/main.e71a66a6.css.map",
+    "main.fd2f64b4.js.map": "/portfolio/static/js/main.fd2f64b4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71a66a6.css",
+    "static/js/main.fd2f64b4.js"
+  ]
+}
