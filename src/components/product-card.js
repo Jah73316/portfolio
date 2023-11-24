@@ -1,3 +1,4 @@
+import Counter from './counter';
 import Review from './review';
 
 function ProductCard({ name, price, review, percentOff, imgSrc }) {
@@ -5,9 +6,10 @@ function ProductCard({ name, price, review, percentOff, imgSrc }) {
     <img src={imgSrc} height='340' className="card-img-top p-0" alt="..." />
     <div className="card-body">
       <h2 className="card-title">{name}</h2>
-      <p className="card-text">{percentOff} Off</p>
-      <p><Review rating={review}  /></p>
-      <p className="card-text">${price}</p>
+      <p className="card-text">Discount: {percentOff} Off</p>
+      <p>Rating: <Review rating={review}  /></p>
+      <p className="card-text">Price: ${price}</p>
+      <Counter />
     </div>
   </div>)
 }
