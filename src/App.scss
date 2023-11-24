@@ -1,0 +1,15 @@
+$primary: #549670;
+$secondary: #f15d2e;
+$danger: #df1600;
+$white: #fff;
+@import '../node_modules/bootstrap/scss/bootstrap';
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.min.css';
+.App {
+  text-align: center;
+}
+
+.logo-image {
+  scale: 1.3
+}
+
+
