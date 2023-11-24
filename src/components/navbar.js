@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link,
   NavLink,
 } from "react-router-dom";
 import ProductPage from "../pages/product-page";
@@ -163,10 +162,10 @@ function Navbar() {
         </div>
       </nav>
       <Routes>
+        <Route path="*" element={<HomePage />} />
         <Route element={<ProductPage />} path="/product" />
         <Route element={<AboutPage />} path="/about" />
         <Route element={<ContactPage />} path="/contact" />
-        <Route element={<HomePage />} path="/" />
       </Routes>
     </Router>
   );
